@@ -6,10 +6,9 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="About Us" />
+    <h1>Tip Calculator Features</h1>
+    <p>This tip calculator has been created to help simplify the process of calculating your tip for almost any occasion.</p>
   </Layout>
 )
 
