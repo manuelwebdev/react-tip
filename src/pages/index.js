@@ -12,6 +12,7 @@ const IndexPage = () => (
     <input type="text" />
     <h2>Tip</h2>
     <p> -- Slider Will Go Here -- </p>
+    <input type="range"/>
     <h2>Total Bill</h2>
     <p> -- Icon Button Goes Here -- </p>
     <h2>Bill</h2>
