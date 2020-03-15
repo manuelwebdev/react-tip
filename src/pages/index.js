@@ -8,6 +8,12 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <p> -- Icons Go Here -- </p>
+    <div>
+      <button>More</button>
+      <button>Transport</button>
+      <button>Personal Care</button>
+      <button>Food</button>
+    </div>
     <h2>Enter Bill Here:</h2>
     <input type="text" />
     <h2>Tip</h2>
